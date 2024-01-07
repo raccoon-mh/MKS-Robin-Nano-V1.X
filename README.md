@@ -2,7 +2,9 @@
 - 현재 생산 및 판매가 중지된 것으로 보임
 - MKS-Robin-Nano V1.2 탑재
   - TMC 2208 XYZ / ext
-  - filamnet runout sensor 흰색 2번?포트 할당
+  - filamnet runout sensor 2번 포트 할당
+  - ![image](https://github.com/raccoon-mh/MKS-Robin-Nano-V1.X/assets/130422754/02c191f0-98f6-40a7-be5c-7f045801f10a)
+
 ---
 
 # About MKS-Robin-Nano V1.x and V2.x
