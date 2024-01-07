@@ -1,3 +1,8 @@
+# 한국 프린트포드[https://www.printboard.co.kr/] 제조 커스텀 프린터
+현재 생산 및 판매가 중지된 것으로 보임
+
+---
+
 # About MKS-Robin-Nano V1.x and V2.x
 The differences between Robin Nano V1.x and Robin Nano V2.x are as follow:
 
