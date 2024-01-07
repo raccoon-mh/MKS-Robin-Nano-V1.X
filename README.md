@@ -1,6 +1,8 @@
 # 한국 [프린트보드](https://www.printboard.co.kr/) 제조 커스텀 프린터
 - 현재 생산 및 판매가 중지된 것으로 보임
 - MKS-Robin-Nano V1.2 탑재
+  - TMC 2208 XYZ / ext
+  - filamnet runout sensor 흰색 2번?포트 할당
 ---
 
 # About MKS-Robin-Nano V1.x and V2.x
